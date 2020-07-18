@@ -1,4 +1,7 @@
-### Hi there 👋
+### About 👋😄
+
+- M.Sc. Student, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn), Beijing, China
+- Intern, [Tencent AI Lab](https://ai.tencent.com/ailab/), Shenzhen, China
 
 <!--
 **zawnpn/zawnpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
